@@ -101,7 +101,7 @@ games_db = [
         "description": "Immersive fantasy role-playing game with stunning graphics and epic storylines",
         "price": 299000,
         "category": "RPG",
-        "image": "/RGP.jpg?height=200&width=300",
+        "image": "/RGP.jpeg?height=200&width=300",
         "rating": 4.8,
         "tags": ["Fantasy", "Adventure", "Multiplayer"],
         "featured": True,
